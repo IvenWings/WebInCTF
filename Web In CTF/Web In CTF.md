@@ -172,7 +172,7 @@ $test=1+"admin2";//$test=1(int)
 So that's why " "admin1"==1 =>False "
 ```
 
-![](C:\Users\mcwin\Desktop\Web In CTF\images\php==.png)
+![](\images\php==.png)
 
 ##### md5绕过(Hash比较缺陷)
 
