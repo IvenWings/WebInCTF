@@ -173,7 +173,7 @@ $test=1+"admin2";//$test=1(int)
 So that's why " "admin1"==1 =>False "
 ```
 
-![](\images\php==.png)
+![](https://github.com/IvenWings/WebInCTF/tree/master/Web%20In%20CTF/images\php==.png)
 
 ##### md5绕过(Hash比较缺陷)
 
@@ -723,7 +723,7 @@ SELECT * from table_name WHERE id=('out input')
 SELECT * from table_name WHERE id=("our input")
 ```
 
-![](C:\Users\mcwin\Desktop\Web In CTF\images\sql.png)
+![](https://github.com/IvenWings/WebInCTF/tree/master/Web%20In%20CTF/images\sql.png)
 
 原理如上
 
